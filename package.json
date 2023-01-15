@@ -27,5 +27,8 @@
     "@babel/preset-react": "^7.18.6",
     "eslint": "8.23.1",
     "eslint-config-next": "12.3.0"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
